@@ -1,2 +1,2 @@
 # StudentManagement
-受講生管理
+Javaコース
